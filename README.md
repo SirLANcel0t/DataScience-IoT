@@ -53,6 +53,8 @@ To setup your new Raspberry Pi, refer to "THE OFFICIAL Raspberry Pi Beginner's G
 ## Preparing the connection with Philips Hue
 After having set up the hardware as above, the code to run this project can be found in "motion.py".
 What the code does and where it does this can be found in the file with comments.
+I used the meethue API, which is an official Philips Hue API, it was rather simple to implement.
+What the code eventually does, is read the sensor's input, and based on this send a True/False value to the API.
 
 ## Running the code on the Raspberry Pi
 Use Putty to run the Python file directly. The codes with comments can be found in motion.py in this repository. Make sure that the pins are wired like written above.
