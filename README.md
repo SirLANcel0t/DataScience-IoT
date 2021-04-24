@@ -9,9 +9,8 @@ Pipeline of this IoT project can be found in :"IoT Pipeline.png".
 
 ## Used stuff
 ### Hardware components
-- Raspberry Pi 4
-- 8GB or more Micro SD Card
-- Breadboard 
+- Raspberry Pi 3 model A+
+- 8GB Micro SD Card
 - 3x F-M jumperwires
 - HC-SR501 PIR Motion Sensor
 - Power adapter Raspberry Pi 4 Micro USB
